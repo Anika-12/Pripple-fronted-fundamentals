@@ -1,0 +1,59 @@
+*{
+	background-color: orchid;
+
+	
+}
+
+.all{
+
+	background-color: black;
+}
+.bd{
+
+	font-size: 30px;
+	font-style: inherit;
+	color: lavender;
+	text-align: center;
+	
+}
+.bd p span{
+
+	color:yellowgreen;
+}
+
+#pic img{
+
+	height: 300px;
+	width: 600px;
+	padding-left: 30%;
+
+}
+.part img{
+   height: 300px;
+	width: 600px;
+	padding-left: 15%;
+
+}
+
+.part{
+
+	font-size: 25px;
+	padding-left: 20%;
+	color: pink;
+}
+
+.last a{
+     font-size: 20px;
+     text-decoration: none;
+     color:yellow ;
+
+}
+.last a:hover{
+	color: red;
+	
+	
+}
+.last{
+
+	padding-left: 40%;
+}

@@ -1,0 +1,47 @@
+*{
+	background-color: black;
+	box-sizing: border-box;
+}
+.body{
+
+	font-size: 30px;
+	font-style: inherit;
+	color: lightgreen;
+	text-align: center;
+}
+
+.pic img{
+
+	height: 300px;
+	width: 600px;
+	padding-left: 15%;
+
+}
+.part img{
+   height: 300px;
+	width: 600px;
+	padding-left: 15%;
+
+}
+
+.part{
+
+	font-size: 25px;
+	padding-left: 10%;
+	color: pink;
+}
+
+.last a{
+     font-size: 20px;
+     text-decoration: none;
+     color:yellow ;
+
+}
+.last a:hover{
+	color: red;
+	
+}
+.last{
+
+	padding-left: 40%;
+}
